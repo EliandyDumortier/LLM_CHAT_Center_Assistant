@@ -69,3 +69,7 @@ dist/
 
 # Chroma vector store (if any local persistence)
 chroma_data/
+
+# Django static files collected by Whitenoise
+staticfiles/
+
